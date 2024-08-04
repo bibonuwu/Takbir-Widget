@@ -123,7 +123,7 @@ namespace Takbir_Widget
             else
             {
                 CollapseWindow();
-                _animationTimer.Interval = TimeSpan.FromSeconds(1); // Скрыть окно на 10 секунд
+                _animationTimer.Interval = TimeSpan.FromSeconds(600); // Скрыть окно на 10 секунд
             }
         }
 

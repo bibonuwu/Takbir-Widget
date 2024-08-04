@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Takbir Widget", "Takbir Widget\Takbir Widget.csproj", "{32C89DDA-A280-40CE-B70A-189D27438936}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup Takbir", "Setup Takbir\Setup Takbir.vdproj", "{C3135855-6535-408E-B289-D933F3DA8ECD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{32C89DDA-A280-40CE-B70A-189D27438936}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32C89DDA-A280-40CE-B70A-189D27438936}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32C89DDA-A280-40CE-B70A-189D27438936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3135855-6535-408E-B289-D933F3DA8ECD}.Debug|Any CPU.ActiveCfg = Debug
+		{C3135855-6535-408E-B289-D933F3DA8ECD}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

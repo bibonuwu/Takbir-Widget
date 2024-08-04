@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\yyy\\source\\repos\\Takbir Widget\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{32C89DDA-A280-40CE-B70A-189D27438936}|Takbir Widget\\Takbir Widget.csproj|C:\\Users\\yyy\\source\\repos\\Takbir Widget\\takbir widget\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32C89DDA-A280-40CE-B70A-189D27438936}|Takbir Widget\\Takbir Widget.csproj|solutionrelative:takbir widget\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Takbir Widget||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
@@ -10,11 +14,7 @@
       "RelativeMoniker": "D:0:0:{32C89DDA-A280-40CE-B70A-189D27438936}|Takbir Widget\\Takbir Widget.csproj|solutionrelative:takbir widget\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C89DDA-A280-40CE-B70A-189D27438936}|Takbir Widget\\Takbir Widget.csproj|c:\\users\\yyy\\source\\repos\\takbir widget\\takbir widget\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{32C89DDA-A280-40CE-B70A-189D27438936}|Takbir Widget\\Takbir Widget.csproj|solutionrelative:takbir widget\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32C89DDA-A280-40CE-B70A-189D27438936}|Takbir Widget\\Takbir Widget.csproj|c:\\users\\yyy\\source\\repos\\takbir widget\\takbir widget\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+      "AbsoluteMoniker": "D:0:0:{32C89DDA-A280-40CE-B70A-189D27438936}|Takbir Widget\\Takbir Widget.csproj|c:\\users\\yyy\\source\\repos\\takbir widget\\takbir widget\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -32,7 +32,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Takbir Widget",
               "DocumentMoniker": "C:\\Users\\yyy\\source\\repos\\Takbir Widget\\Takbir Widget\\Takbir Widget.csproj",
               "RelativeDocumentMoniker": "Takbir Widget\\Takbir Widget.csproj",
@@ -44,7 +44,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\yyy\\source\\repos\\Takbir Widget\\Takbir Widget\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Takbir Widget\\MainWindow.xaml",
@@ -56,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\yyy\\source\\repos\\Takbir Widget\\Takbir Widget\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Takbir Widget\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\yyy\\source\\repos\\Takbir Widget\\Takbir Widget\\MainWindow.xaml.cs",
               "RelativeToolTip": "Takbir Widget\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAG4AAAAAAAAAAAAqwH0AAABBAAAA",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAqwH0AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T18:57:48.891Z",
               "EditorCaption": ""
