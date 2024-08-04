@@ -1,0 +1,19 @@
+C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\bin\Debug\Takbir Widget.exe.config
+C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\bin\Debug\Takbir Widget.exe
+C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\bin\Debug\Takbir Widget.pdb
+C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Debug\Takbir Widget.csproj.AssemblyReference.cache
+C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Debug\MainWindow.g.cs
+C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Debug\App.g.cs
+C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Debug\Takbir Widget_MarkupCompile.cache
+C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Debug\MainWindow.baml
+C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Debug\Takbir Widget.g.resources
+C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Debug\Takbir_Widget.Properties.Resources.resources
+C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Debug\Takbir Widget.csproj.GenerateResource.cache
+C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Debug\Takbir Widget.csproj.CoreCompileInputs.cache
+C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Debug\Takbir Widget.exe
+C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Debug\Takbir Widget.pdb
+C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\bin\Debug\Takbir Widget.exe.manifest
+C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\bin\Debug\Takbir Widget.application
+C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Debug\Takbir Widget.TrustInfo.xml
+C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Debug\Takbir Widget.exe.manifest
+C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Debug\Takbir Widget.application
