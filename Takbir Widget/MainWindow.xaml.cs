@@ -107,7 +107,7 @@ namespace Takbir_Widget
         private void StartAnimationTimer()
         {
             _animationTimer = new DispatcherTimer();
-            _animationTimer.Interval = TimeSpan.FromSeconds(3);
+            _animationTimer.Interval = TimeSpan.FromSeconds(10);
             _animationTimer.Tick += (s, e) => ToggleWindowAnimation();
             _animationTimer.Start();
         }
@@ -123,7 +123,7 @@ namespace Takbir_Widget
             else
             {
                 CollapseWindow();
-                _animationTimer.Interval = TimeSpan.FromSeconds(600); // Скрыть окно на 10 секунд
+                _animationTimer.Interval = TimeSpan.FromSeconds(480); // Скрыть окно на 10 секунд
             }
         }
 
