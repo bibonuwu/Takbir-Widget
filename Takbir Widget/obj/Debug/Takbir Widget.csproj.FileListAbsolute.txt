@@ -17,3 +17,22 @@ C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\bin\Debug\Takbir Widget.ap
 C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Debug\Takbir Widget.TrustInfo.xml
 C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Debug\Takbir Widget.exe.manifest
 C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Debug\Takbir Widget.application
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\bin\Debug\Taqbir Widget.exe.config
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\bin\Debug\Taqbir Widget.exe.manifest
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\bin\Debug\Taqbir Widget.application
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\bin\Debug\Taqbir Widget.exe
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\bin\Debug\Taqbir Widget.pdb
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Debug\Takbir Widget.csproj.AssemblyReference.cache
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Debug\MainWindow.baml
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Debug\MainWindow.g.cs
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Debug\App.g.cs
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Debug\Taqbir Widget_MarkupCompile.cache
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Debug\Taqbir Widget.g.resources
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Debug\Takbir_Widget.Properties.Resources.resources
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Debug\Takbir Widget.csproj.GenerateResource.cache
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Debug\Takbir Widget.csproj.CoreCompileInputs.cache
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Debug\Taqbir Widget.TrustInfo.xml
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Debug\Taqbir Widget.exe.manifest
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Debug\Taqbir Widget.application
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Debug\Taqbir Widget.exe
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Debug\Taqbir Widget.pdb

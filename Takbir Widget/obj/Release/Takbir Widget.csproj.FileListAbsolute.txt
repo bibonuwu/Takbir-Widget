@@ -17,3 +17,22 @@ C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Release\Takbir Widget.
 C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Release\Takbir Widget.application
 C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Release\Takbir Widget.exe
 C:\Users\yyy\source\repos\Takbir Widget\Takbir Widget\obj\Release\Takbir Widget.pdb
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\bin\Release\Taqbir Widget.exe.config
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\bin\Release\Taqbir Widget.exe.manifest
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\bin\Release\Taqbir Widget.application
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\bin\Release\Taqbir Widget.exe
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\bin\Release\Taqbir Widget.pdb
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Release\Takbir Widget.csproj.AssemblyReference.cache
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Release\MainWindow.baml
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Release\MainWindow.g.cs
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Release\App.g.cs
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Release\Taqbir Widget_MarkupCompile.cache
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Release\Taqbir Widget.g.resources
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Release\Takbir_Widget.Properties.Resources.resources
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Release\Takbir Widget.csproj.GenerateResource.cache
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Release\Takbir Widget.csproj.CoreCompileInputs.cache
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Release\Taqbir Widget.TrustInfo.xml
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Release\Taqbir Widget.exe.manifest
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Release\Taqbir Widget.application
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Release\Taqbir Widget.exe
+C:\Users\bibon\Desktop\Takbir-Widget\Takbir Widget\obj\Release\Taqbir Widget.pdb
