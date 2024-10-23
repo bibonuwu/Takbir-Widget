@@ -7,14 +7,18 @@
       "RelativeMoniker": "D:0:0:{32C89DDA-A280-40CE-B70A-189D27438936}|Takbir Widget\\Takbir Widget.csproj|solutionrelative:takbir widget\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Takbir Widget||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{32C89DDA-A280-40CE-B70A-189D27438936}|Takbir Widget\\Takbir Widget.csproj|c:\\users\\bibon\\desktop\\takbir-widget\\takbir widget\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{32C89DDA-A280-40CE-B70A-189D27438936}|Takbir Widget\\Takbir Widget.csproj|solutionrelative:takbir widget\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C89DDA-A280-40CE-B70A-189D27438936}|Takbir Widget\\Takbir Widget.csproj|c:\\users\\bibon\\desktop\\takbir-widget\\takbir widget\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Takbir Widget||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C89DDA-A280-40CE-B70A-189D27438936}|Takbir Widget\\Takbir Widget.csproj|C:\\Users\\bibon\\Desktop\\Takbir-Widget\\takbir widget\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32C89DDA-A280-40CE-B70A-189D27438936}|Takbir Widget\\Takbir Widget.csproj|solutionrelative:takbir widget\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C89DDA-A280-40CE-B70A-189D27438936}|Takbir Widget\\Takbir Widget.csproj|c:\\users\\bibon\\desktop\\takbir-widget\\takbir widget\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|f8d6553f-f752-4dbf-acb6-f291b744a792"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +32,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\bibon\\Desktop\\Takbir-Widget\\Takbir Widget\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Takbir Widget\\MainWindow.xaml",
@@ -40,14 +44,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Takbir Widget",
-              "DocumentMoniker": "C:\\Users\\bibon\\Desktop\\Takbir-Widget\\Takbir Widget\\Takbir Widget.csproj",
-              "RelativeDocumentMoniker": "Takbir Widget\\Takbir Widget.csproj",
-              "ToolTip": "C:\\Users\\bibon\\Desktop\\Takbir-Widget\\Takbir Widget\\Takbir Widget.csproj",
-              "RelativeToolTip": "Takbir Widget\\Takbir Widget.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-04T21:38:55.402Z",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\bibon\\Desktop\\Takbir-Widget\\Takbir Widget\\App.xaml",
+              "RelativeDocumentMoniker": "Takbir Widget\\App.xaml",
+              "ToolTip": "C:\\Users\\bibon\\Desktop\\Takbir-Widget\\Takbir Widget\\App.xaml",
+              "RelativeToolTip": "Takbir Widget\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-21T10:58:45.07Z",
               "EditorCaption": ""
             },
             {
@@ -58,9 +62,21 @@
               "RelativeDocumentMoniker": "Takbir Widget\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\bibon\\Desktop\\Takbir-Widget\\Takbir Widget\\MainWindow.xaml.cs",
               "RelativeToolTip": "Takbir Widget\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAADwv30AAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAI8AAAAAAAAAAAA0wKsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T18:57:48.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Takbir Widget",
+              "DocumentMoniker": "C:\\Users\\bibon\\Desktop\\Takbir-Widget\\Takbir Widget\\Takbir Widget.csproj",
+              "RelativeDocumentMoniker": "Takbir Widget\\Takbir Widget.csproj",
+              "ToolTip": "C:\\Users\\bibon\\Desktop\\Takbir-Widget\\Takbir Widget\\Takbir Widget.csproj",
+              "RelativeToolTip": "Takbir Widget\\Takbir Widget.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-04T21:38:55.402Z",
               "EditorCaption": ""
             }
           ]

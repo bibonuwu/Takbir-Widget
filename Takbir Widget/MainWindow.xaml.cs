@@ -6,9 +6,6 @@ using System.Windows.Threading;
 
 namespace Takbir_Widget
 {
-    /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         private DispatcherTimer _animationTimer;
@@ -27,7 +24,7 @@ namespace Takbir_Widget
             ShowInTaskbar = false;
             Topmost = true;
 
-            SetStartup();
+            CheckAndSetStartup();
             StartAnimationTimer();
         }
 
@@ -86,7 +83,38 @@ namespace Takbir_Widget
             this.BeginAnimation(Window.OpacityProperty, opacityAnimation);
         }
 
-        private void SetStartup()
+        // Проверка на добавление в автозагрузку и запрос только один раз
+        private void CheckAndSetStartup()
+        {
+            const string registryPath = "SOFTWARE\\TakbirWidget";
+            const string startupFlagKey = "StartupRequested";
+
+            try
+            {
+                using (RegistryKey key = Registry.CurrentUser.OpenSubKey(registryPath, true))
+                {
+                    if (key == null)
+                    {
+                        // Если записи нет, создаем ключ и показываем запрос
+                        using (RegistryKey newKey = Registry.CurrentUser.CreateSubKey(registryPath))
+                        {
+                            if (MessageBox.Show("Добавить программу в автозагрузку?", "Автозагрузка", MessageBoxButton.YesNo) == MessageBoxResult.Yes)
+                            {
+                                AddToStartup();
+                            }
+                            newKey.SetValue(startupFlagKey, 1); // Устанавливаем флаг, чтобы запрос больше не показывался
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Ошибка при настройке автозагрузки: {ex.Message}");
+            }
+        }
+
+        // Добавление программы в автозагрузку
+        private void AddToStartup()
         {
             try
             {
@@ -95,12 +123,13 @@ namespace Takbir_Widget
                     if (key != null)
                     {
                         key.SetValue("Takbir", System.Reflection.Assembly.GetExecutingAssembly().Location);
+                        MessageBox.Show("Программа добавлена в автозагрузку.");
                     }
                 }
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Error setting startup: {ex.Message}");
+                MessageBox.Show($"Ошибка при добавлении в автозагрузку: {ex.Message}");
             }
         }
 
